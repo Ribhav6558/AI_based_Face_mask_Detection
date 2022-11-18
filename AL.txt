@@ -4,4 +4,4 @@ imutils
 keras
 opencv-python
 scipy
-matplotlib
+matplotlib       (You will require these libraries for the project)...... GOOD LUCK!!
